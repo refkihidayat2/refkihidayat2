@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @refkihidayat2
+- 👋 Hi, I’m Refki Hidayat
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Python, R and SQL
 - 💞️ I’m looking to collaborate on new project
